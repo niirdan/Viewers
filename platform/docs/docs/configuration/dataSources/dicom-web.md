@@ -203,6 +203,10 @@ bulkDataURI: {
 },
 ```
 
+`Note!` When using Google health care api setting , is it mandatory to Use `v1beta1` version of google healthcare api In order to aviod issues with BulkDataURI .
+Example (google.js) : 
+![bulkdatauri](https://github.com/OHIF/Viewers/assets/121875046/fd808a2d-66d3-44a3-b36f-921af8d7eedf)
+
 
 ### Running DCM4CHEE
 
